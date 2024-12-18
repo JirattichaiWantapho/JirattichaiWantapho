@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+Hello! I'm Jirattichai Wantapho, a third-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I have a passion for technology and software development, and I'm always eager to learn and take on new challenges.
+
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
