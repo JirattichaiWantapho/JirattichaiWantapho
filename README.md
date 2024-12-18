@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest,cypress,playwright)](https://skillicons.dev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
