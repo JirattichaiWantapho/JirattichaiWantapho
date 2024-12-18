@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Jirattichai Wantapho
+# Hi there 👋,I'm Jirattichai Wantapho
 
 <!--
 **JirattichaiWantapho/JirattichaiWantapho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+### About Me
 
 Hello! I'm Jirattichai Wantapho, a third-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I have a passion for technology and software development, and I'm always eager to learn and take on new challenges.
 
