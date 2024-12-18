@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jest,cypress,playwright)](https://skillicons.dev)
-![Playwright](https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png))
+![Playwright Logo](https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png)
 
