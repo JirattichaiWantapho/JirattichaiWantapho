@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-Hello! I'm Jirattichai Wantapho, a third-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I have a passion for technology and software development, and I'm always eager to learn and take on new challenges.
+Hello! I'm Jirattichai Wantapho, a fourth-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I have a passion for technology and software development, and I'm always eager to learn and take on new challenges.
 ### 🌐 My portfolio: [https://jirattichai-portfolio.onrender.com](https://jirattichai-portfolio.onrender.com)
 
 ### 💻 Tech Stack:
