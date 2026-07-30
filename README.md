@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Jirattichai Wantapho
+# Hi there ,I'm Jirattichai Wantapho
 
 <!--
 **JirattichaiWantapho/JirattichaiWantapho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-Hello! I'm Jirattichai Wantapho, a fourth-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I have a passion for technology and software development, and I'm always eager to learn and take on new challenges.
+Computer Engineering student @ KMUTT focusing on **ABAP Cloud**, **SAP Integration Suite**, and **Full-stack / AI Development**.
 <!--### 🌐 My portfolio: [https://jirattichai-portfolio.onrender.com](https://jirattichai-portfolio.onrender.com)-->
+### What I Do
+- ☁️ **SAP & Enterprise:** Working with **ABAP Cloud (RAP/CDS Views)**, **SAP Integration Suite (iFlows, Event Mesh)**, and Clean Core development.
+
 
 ### 💻 Tech Stack:
+
+**SAP Development & Integration**  
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![Integration Suite](https://img.shields.io/badge/Integration_Suite-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,13 +38,10 @@ Hello! I'm Jirattichai Wantapho, a fourth-year Computer Engineering student at K
 ![ABAP](https://img.shields.io/badge/ABAP-%230055aa?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Programming & Frameworks**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
