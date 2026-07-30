@@ -27,16 +27,10 @@ Computer Engineering student @ KMUTT focusing on **ABAP Cloud**, **SAP Integrati
 **SAP Development & Integration**  
 ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-%230055aa?style=for-the-badge&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 ![Integration Suite](https://img.shields.io/badge/Integration_Suite-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-%230055aa?style=for-the-badge&logo=sap&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-%230055aa?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 **Programming & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,3 +39,4 @@ Computer Engineering student @ KMUTT focusing on **ABAP Cloud**, **SAP Integrati
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
